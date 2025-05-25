@@ -29,7 +29,6 @@ The **HAM10000** dataset (`Human Against Machine with 10000 training images`) is
 - Displayed unique values in critical columns.
 
 ### 2. 🧼 **Missing Value Handling**
-- Filled missing `age` values using **median age per lesion type (`dx`)** to preserve distribution patterns.
 
 ### 3. ⚖️ **Class Imbalance Check**
 - Visualized the class distribution of `dx` using bar plots.
